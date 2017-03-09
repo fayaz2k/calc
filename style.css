@@ -1,0 +1,17 @@
+
+
+.form{
+    margin: 0 auto;
+    /*border: 1px solid red;*/
+    min-width: 400px;
+    max-width: 600px;
+    background-color: chartreuse;
+    padding: 0 10px 20px 10px;
+}
+
+.form input{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    text-indent: 10px;
+}
